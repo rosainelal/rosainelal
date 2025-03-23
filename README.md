@@ -6,7 +6,8 @@ I enjoy building **full-stack applications** and have worked with:
 - 🌐 **Frontend**: HTML, CSS, JavaScript  
 - 🛠️ **Backend**: Node.js  
 - 🐍 **Programming**: Python, Java  
+- 📊 **Data Analytics**: Power BI, Data Visualization, and Insights  
 
-💡 Always exploring new technologies and security best practices!  
+💡 Passionate about exploring **data-driven solutions** and uncovering insights through **data analytics**!
 
-📫 Let's connect!
+📫 Let's connect! 
